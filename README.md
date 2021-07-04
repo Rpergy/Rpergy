@@ -6,11 +6,13 @@ I upload most of my projects here so I can access them from multiple devices, bu
 I am currently working on a business plan for *world domination*
 
 I know these programming languages:
-- HTML & CSS
+- HTML (Yes I knnow that HTML isn't a programming language but shut up)
+- CSS (Same for CSS)
 - Javascript
 - Java
 - C++
-- Unity w/ C#
+- C#
+- Unity
 - SQL
 - Python
 
